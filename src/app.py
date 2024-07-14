@@ -25,13 +25,6 @@ member_three = FamilyMember("Jimmy", "5 years old", [1])
 jackson_family.add_member(member_one)
 jackson_family.add_member(member_two)
 jackson_family.add_member(member_three)
-# Alvim_family = FamilyStructure("Alvim")
-# Alvim_family.add_member(me)
-# Alvim_family.add_member(dad)
-# Alvim_family.add_member(sister)
-# Alvim_family.delete_member(1)
-# Alvim_family.get_all_members
-# Alvim_family.get_member(2)
 
 # for member in jackson_family._members:
 #     print(f"{member.id}: {member.first_name} / {jackson_family.last_name} / {member.age} / {member.lucky_numbers}")
